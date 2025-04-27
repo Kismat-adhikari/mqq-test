@@ -15,6 +15,5 @@ public class sum{
         }
 
         System.out.println("Sum of digits: " + sum);
-        scanner.close();
     }
 }
